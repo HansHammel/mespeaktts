@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Text to Speech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-27 16:56+0200\n"
+"PO-Revision-Date: 2012-11-27 16:57+0200\n"
+"Last-Translator: Marius-Alex OLAR\n"
+"Language-Team: Marius OLAR <http://olarmarius.tk/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: text-to-speech.php:79
+msgid "This widget transform text to speech"
+msgstr ""
+
+#: text-to-speech.php:150
+msgid "Text to Speech"
+msgstr ""
+
+#: text-to-speech.php:211
+msgid "Title"
+msgstr ""
+
+#: text-to-speech.php:216
+#: text-to-speech.php:325
+#: text-to-speech.php:331
+msgid "Text"
+msgstr ""
+
+#: text-to-speech.php:221
+#: text-to-speech.php:337
+#: text-to-speech.php:391
+msgid "Amplitude"
+msgstr ""
+
+#: text-to-speech.php:226
+#: text-to-speech.php:343
+#: text-to-speech.php:393
+msgid "Workdgap"
+msgstr ""
+
+#: text-to-speech.php:231
+#: text-to-speech.php:349
+#: text-to-speech.php:395
+msgid "Pitch"
+msgstr ""
+
+#: text-to-speech.php:236
+#: text-to-speech.php:355
+#: text-to-speech.php:397
+msgid "Speed"
+msgstr ""
+
+#: text-to-speech.php:293
+#: text-to-speech.php:297
+msgid "Message"
+msgstr ""
+
+#: text-to-speech.php:293
+msgid "Saved options"
+msgstr ""
+
+#: text-to-speech.php:297
+msgid "Error saving options"
+msgstr ""
+
+#: text-to-speech.php:315
+#: text-to-speech.php:317
+#: text-to-speech.php:429
+msgid "Settings"
+msgstr ""
+
+#: text-to-speech.php:365
+msgid "Save"
+msgstr ""
+
+#: text-to-speech.php:374
+#: text-to-speech.php:376
+msgid "Documentation"
+msgstr ""
+
+#: text-to-speech.php:380
+msgid "To use this plugin just use 'Text to Speech' Widget"
+msgstr ""
+
+#: text-to-speech.php:387
+msgid "Explanation"
+msgstr ""
+
+#: text-to-speech.php:388
+msgid "Description"
+msgstr ""
+
+#: text-to-speech.php:391
+msgid "volume"
+msgstr ""
+
+#: text-to-speech.php:393
+msgid "delay between words"
+msgstr ""
+
+#: text-to-speech.php:395
+msgid "the pitch of voice"
+msgstr ""
+
+#: text-to-speech.php:397
+msgid "the speed of voice"
+msgstr ""
+
+#: text-to-speech.php:403
+msgid "For more examples visit"
+msgstr ""
+
